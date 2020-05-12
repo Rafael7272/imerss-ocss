@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://get.pxhere.com/photo/green-natural-landscape-nature-tree-natural-environment-vegetation-grass-nature-reserve-forest-meadow-biome-grassland-sunlight-woodland-leaf-plant-temperate-broadleaf-and-mixed-forest-pasture-grass-family-riparian-forest-woody-plant-plant-community-spring-old-growth-forest-temperate-coniferous-forest-Northern-hardwood-forest-prairie-landscape-grove-wildlife-land-lot-tropical-and-subtropical-coniferous-forests-wood-1590205.png);
+  }
+  .menu{
+    background-color: white;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+     text-decoration: underline;
+  }
+  
+  .site-title,.site-subtitle { color: whitesmoke; text-align: center;}
+  
